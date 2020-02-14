@@ -14,3 +14,5 @@ Create a command line application that functions as a chat. The application has 
 
 Directory structure: `login/cmd-chat/...` (for example: `vkuksa/cmd-chat/...`).  
 Submit all the necesarry **project files** and **VS solution**.
+
+# DEADLINE: MONDAY, 17.02.2020, 12:00
