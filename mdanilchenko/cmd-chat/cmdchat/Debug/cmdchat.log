@@ -1,0 +1,5 @@
+﻿  BroadcastSender.cpp
+  Chat.cpp
+C:\wp\Main\mdanilchenko\cmd-chat\cmdchat\cmdchat\Chat.cpp(65,26): warning C4018: '>=': signed/unsigned mismatch
+  Generating Code...
+  cmdchat.vcxproj -> C:\wp\Main\mdanilchenko\cmd-chat\cmdchat\Debug\cmdchat.exe
